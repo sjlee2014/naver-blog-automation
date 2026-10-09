@@ -1,0 +1,47 @@
+# Authentication and account bindings
+.env
+.env.*
+*.pem
+*.key
+*cookie*
+*token*.json
+*credential*
+config.local.*
+blog_profiles.local.*
+# Private customer and communication material
+private/
+customer*/
+consultation*/
+chat*/
+accounts/
+*.csv
+*.xlsx
+*.pdf
+# Browser and runtime state
+*profile*/
+browser-runtime/
+user-data/
+DevToolsActivePort
+sessions/
+logs/
+*.log
+*.pid
+.cache/
+cache/
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+# Asset bytes are maintained outside this source handoff
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.mov
+*.zip
+*.sqlite*
+.DS_Store
+outputs/

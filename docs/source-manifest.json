@@ -1,0 +1,146 @@
+{
+  "snapshot_date": "2026-10-09",
+  "sources": [
+    {
+      "source_alias": "project/scripts/mark_four_stage_preflight.js",
+      "source_sha256": "afa4e24e3fdc005f80dd124ea59ec4441acc01f405db580e82459825027bf9f7",
+      "destination": "scripts/mark_four_stage_preflight.js",
+      "copied_sha256": "afa4e24e3fdc005f80dd124ea59ec4441acc01f405db580e82459825027bf9f7",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/regional_keyword_planner.cjs",
+      "source_sha256": "cb710642217ac170f8486377b719191f8044bbc94ca9dc166f8e093e0a8d9ebd",
+      "destination": "scripts/regional_keyword_planner.cjs",
+      "copied_sha256": "cb710642217ac170f8486377b719191f8044bbc94ca9dc166f8e093e0a8d9ebd",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/prepare_regional_queue.cjs",
+      "source_sha256": "6075d656bd53d9a75a141e1da7fb36d0bed3eb0774ef6741a38d67aa3a55129b",
+      "destination": "scripts/prepare_regional_queue.cjs",
+      "copied_sha256": "6075d656bd53d9a75a141e1da7fb36d0bed3eb0774ef6741a38d67aa3a55129b",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/keyword_exposure_feedback.js",
+      "source_sha256": "03264d190f7b76784c4b9abd7848be4f3e62fb7d504749f1f0fad2b5b2d1226f",
+      "destination": "scripts/keyword_exposure_feedback.js",
+      "copied_sha256": "03264d190f7b76784c4b9abd7848be4f3e62fb7d504749f1f0fad2b5b2d1226f",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/lib/regional_keyword_rules.cjs",
+      "source_sha256": "83c792c77b167b44556b6744589ab29fe5a9251474e132dbc7ab610941da70fb",
+      "destination": "scripts/lib/regional_keyword_rules.cjs",
+      "copied_sha256": "83c792c77b167b44556b6744589ab29fe5a9251474e132dbc7ab610941da70fb",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/lib/blog_presentation_policy.cjs",
+      "source_sha256": "2f3338a3645c5c2c73db6f110759938c999237590cfcf1ce340a4b19f2e36dfc",
+      "destination": "scripts/lib/blog_presentation_policy.cjs",
+      "copied_sha256": "2f3338a3645c5c2c73db6f110759938c999237590cfcf1ce340a4b19f2e36dfc",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/lib/validate_blog_revision.cjs",
+      "source_sha256": "05546d42f717724f2a90bc28fe2ecb8c8e965943590be4d87f9be9b6354f1e32",
+      "destination": "scripts/lib/validate_blog_revision.cjs",
+      "copied_sha256": "05546d42f717724f2a90bc28fe2ecb8c8e965943590be4d87f9be9b6354f1e32",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/test_restored_preflight.cjs",
+      "source_sha256": "0d22737e531256b591e80c81075ca190b1d0383b7477e81d91d03012513d4f71",
+      "destination": "scripts/test_restored_preflight.cjs",
+      "copied_sha256": "0d22737e531256b591e80c81075ca190b1d0383b7477e81d91d03012513d4f71",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/test_regional_keyword_planner.cjs",
+      "source_sha256": "100411be78332326b17324f2c7217c51e130808baa4c126634bc6be6f9205148",
+      "destination": "scripts/test_regional_keyword_planner.cjs",
+      "copied_sha256": "100411be78332326b17324f2c7217c51e130808baa4c126634bc6be6f9205148",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/tests/blog_presentation_policy.test.cjs",
+      "source_sha256": "5370906935930e72f7f10b07d6232b1f3ca6d95d278ec1966fd0baab0df3ca72",
+      "destination": "scripts/tests/blog_presentation_policy.test.cjs",
+      "copied_sha256": "5370906935930e72f7f10b07d6232b1f3ca6d95d278ec1966fd0baab0df3ca72",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/MARK_IMAGE_FRESHNESS_WORKFLOW.md",
+      "source_sha256": "ada41910901d173237a47a358e1751670e506fca986fc1ad8368c8863fb41d09",
+      "destination": "docs/MARK_IMAGE_FRESHNESS_WORKFLOW.md",
+      "copied_sha256": "ada41910901d173237a47a358e1751670e506fca986fc1ad8368c8863fb41d09",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/REGIONAL_KEYWORD_WORKFLOW.md",
+      "source_sha256": "59a29504c039d7751be7f44b331eafa46dde6ee2009b1b27699afa210a89d9f0",
+      "destination": "docs/REGIONAL_KEYWORD_WORKFLOW.md",
+      "copied_sha256": "59a29504c039d7751be7f44b331eafa46dde6ee2009b1b27699afa210a89d9f0",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/write_mark_posts.ts",
+      "source_sha256": "8ceb45a6b7f64947e6e52e9787c9bf766b41d764dd1fdbba5b1c815309595b91",
+      "destination": "reference/project/scripts/write_mark_posts.ts",
+      "copied_sha256": "5e89369446b7c23fab7c44d8e72b862fe5180b52aa30f7017425052ab7c31f2a",
+      "adapted": true
+    },
+    {
+      "source_alias": "project/scripts/verify_mark_draft.cjs",
+      "source_sha256": "e0228c4069c6066fff80fdd66581c71319d5de7a3732fcc6c2276b83a3fb150d",
+      "destination": "reference/project/scripts/verify_mark_draft.cjs",
+      "copied_sha256": "1cccde39fe8b5c26ec4173cbc6343a22e319ee617d4637030b58f1d667d9f67f",
+      "adapted": true
+    },
+    {
+      "source_alias": "project/scripts/blog_four_week_strategy.ts",
+      "source_sha256": "9aea83b4ed17cd7d90ef8b85a255c90ee4d00155415673ec1b4657fdff380c14",
+      "destination": "reference/project/scripts/blog_four_week_strategy.ts",
+      "copied_sha256": "67b5b088905b273731c2845ee1e3123b87d30a944b01f5c6601184fe35553791",
+      "adapted": true
+    },
+    {
+      "source_alias": "project/scripts/lib/draft_editor.cjs",
+      "source_sha256": "fd2a2dcbe6fc928279eb117b851e280162995c9f84c40fc52fc8716facea4bee",
+      "destination": "reference/project/scripts/lib/draft_editor.cjs",
+      "copied_sha256": "fd2a2dcbe6fc928279eb117b851e280162995c9f84c40fc52fc8716facea4bee",
+      "adapted": false
+    },
+    {
+      "source_alias": "project/scripts/lib/blog_presentation_policy.cjs",
+      "source_sha256": "2f3338a3645c5c2c73db6f110759938c999237590cfcf1ce340a4b19f2e36dfc",
+      "destination": "reference/project/scripts/lib/blog_presentation_policy.cjs",
+      "copied_sha256": "2f3338a3645c5c2c73db6f110759938c999237590cfcf1ce340a4b19f2e36dfc",
+      "adapted": false
+    },
+    {
+      "source_alias": "recent-2026-10-08/task-3/finalize_package.py",
+      "source_sha256": "2b6af3524e86617305426b2d0bc608301a687de2e8fea914294c347eada071fb",
+      "destination": "reference/recent/finalize_package.py",
+      "copied_sha256": "7a207e279dd94367f38a716dda7729c568fff2c32505845d05ae095b74936df5",
+      "adapted": true
+    },
+    {
+      "source_alias": "user-project-skill/_NAVERBLOGPOST/SKILL.md",
+      "source_sha256": "4198020b32eabfb9502eb897ce64d541919637b80d7030fd8ebffcd153ba5638",
+      "destination": ".agents/skills/naver-blog-writing/SKILL.md",
+      "copied_sha256": "1b2ed7eb8519d0282fd29692ae4bda749bf1879603ce1dd1c4d40be119dc240e",
+      "adapted": true
+    },
+    {
+      "source_alias": "user-project-skill/_NAVERBLOGPOST/Workflows/Create.md",
+      "source_sha256": "07117725aa23df7db5b73707d492adc20214884a90e7619075534e302574dd39",
+      "destination": ".agents/skills/naver-blog-writing/Workflows/Create.md",
+      "copied_sha256": "44a95b1976437d4e62df6a51d4e16f4b4897b50b3f28de6c6687439ecc239e7b",
+      "adapted": true
+    }
+  ],
+  "note": "Aliases identify project files only. Original account bindings, sessions and private evidence were not copied."
+}

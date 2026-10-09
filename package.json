@@ -1,0 +1,15 @@
+{
+  "name": "naver-blog-automation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Naver blog agent workflow and offline validation source handoff",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test scripts/test_restored_preflight.cjs scripts/test_regional_keyword_planner.cjs scripts/tests/blog_presentation_policy.test.cjs",
+    "check:examples": "node tools/check_examples.cjs",
+    "scan": "python3 tools/scan_delivery.py",
+    "check": "npm test && npm run check:examples && npm run scan"
+  }
+}
